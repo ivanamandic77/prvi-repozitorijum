@@ -1,1 +1,2 @@
 moj strava kod ide u ovaj fajl
+dodajemo neki test iz grane funk1
